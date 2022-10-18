@@ -6,8 +6,8 @@ $first_part = $components[4];
 
 ?>
 
-<div id="colorlib-page">
-	<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
+<div id="colorlib-page" class="logo_mobile">
+	<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle "><i></i></a>
 	<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 		<h1 id="colorlib-logo">
 			<a href="https://clickmobile.id/">
@@ -33,3 +33,4 @@ $first_part = $components[4];
 
 
 	</aside>
+</div>

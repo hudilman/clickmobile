@@ -1,4 +1,5 @@
 <?php include('../templates/header.php'); ?>
+<?php include('../templates/sidebar_no_cms.php'); ?>
 <div id="colorlib-main" style="width: 100% !important; background-image: url('../../assets/img/page/about.PNG') ; background-repeat:no-repeat; background-size: cover; height:700px">
 
 	<div class="colorlib-contact" >

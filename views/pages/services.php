@@ -1,4 +1,5 @@
 <?php include('../templates/header.php'); ?>
+<?php include('../templates/sidebar_no_cms.php'); ?>
 <div id="colorlib-main"
 	style="width: 100% !important; background-image: url('../../assets/img/page/about.PNG') ; background-repeat:no-repeat; background-size: cover; ">
 
@@ -46,7 +47,7 @@
 				</div>
 			</section>
 			<div class="row ">
-				<div class="col-md-6" style="padding:20px;">
+				<div class="col-md-6 col-sm-2" style="padding:20px;">
 					<h2 class="text-right">
 						<a href="https://ad.clickmobile.id/" class="label label-default label-lg text-white"
 							style="background-color: #ff9100; color:#fff;">Launch Campaign</a>
@@ -54,21 +55,23 @@
 					<div class="text-right">
 						<p style="line-height:200% ; color:#fff;">
 							Get your designated performance. <br>
-							We’ve harnessed the best of clicks to <br> perform better result for your campaign by understand
+							We’ve harnessed the best of clicks to <br> perform better result for your campaign by
+							understand
 							Engagement <br> Metrics Including Active Users And <br> Market Penetration.
 
 						</p>
 					</div>
 				</div>
-				<div class="col-md-6" style="padding:20px;">
+				<div class="col-md-6 col-sm-2" style="padding:20px;">
 					<h2 class="text-left">
-						<a href="https://ad.clickmobile.id/" class="label label-success label-lg"
-							>Monetize Traffic
-</a>
+						<a href="https://ad.clickmobile.id/" class="label label-success label-lg">Monetize Traffic
+						</a>
 					</h2>
 					<div class="text-left">
 						<p style="line-height:200% ; color:#fff;">
-						Drive demand for your app inventory <br>, supports a variety of ad formats <br>, including banner, video and native ads <br> to earn revenue. Leveraging user-base <br> to earn money from your respective mobile app.
+							Drive demand for your app inventory <br>, supports a variety of ad formats <br>, including
+							banner, video and native ads <br> to earn revenue. Leveraging user-base <br> to earn money
+							from your respective mobile app.
 
 
 						</p>
@@ -77,4 +80,5 @@
 			</div>
 		</div>
 	</div>
+</div>
 	<?php include('../templates/footer.php'); ?>

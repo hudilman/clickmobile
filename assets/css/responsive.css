@@ -26,9 +26,25 @@
     ##Screen = B/w 768px to 1024px
   */
   
-  @media (min-width: 768px) and (max-width: 1024px) {
+  @media (min-width: 768px) and (max-width: 900px) {
     
-    /* CSS */
+    #bg_right_text_up{
+      color:#fff !important ;
+      font-size:30px !important;
+    }
+    
+    #bg_right_text_down{
+      background-color: #00ffff; 
+      font-size:30px !important;
+    }
+    
+    .colorlib-nav-toggle{
+      background-color: #fff !important;
+    }
+
+    .logo_mobile{
+      display:block;
+    }
     
   }
   
@@ -37,9 +53,26 @@
     ##Screen = B/w 768px to 1024px
   */
   
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  @media (min-width: 425px) and (max-width: 480px) {
     
-    /* CSS */
+    #bg_right_text_up{
+      color:#fff !important ;
+      font-size:21px !important;
+    }
+    
+    #bg_right_text_down{
+      background-color: #00ffff; 
+      font-size:21px !important;
+    }
+
+    
+    .logo_mobile{
+      display:block;
+    }
+
+    .colorlib-nav-toggle{
+      background-color: #fff !important;
+    }
     
   }
   
@@ -48,9 +81,26 @@
     ##Screen = B/w 481px to 767px
   */
   
-  @media (min-width: 481px) and (max-width: 767px) {
+  @media (min-width: 366px) and (max-width: 420px) {
     
-    /* CSS */
+    #bg_right_text_up{
+      color:#fff !important ;
+      font-size:17px !important;
+    }
+    
+    #bg_right_text_down{
+      background-color: #00ffff; 
+      font-size:17px !important;
+    }
+
+    
+    .logo_mobile{
+      display:block;
+    }
+
+    .colorlib-nav-toggle{
+      background-color: #fff !important;
+    }
     
   }
   
@@ -59,8 +109,24 @@
     ##Screen = B/w 320px to 479px
   */
   
-  @media (min-width: 320px) and (max-width: 480px) {
+  @media (min-width: 320px) and (max-width: 365px) {
     
-    /* CSS */
+    #bg_right_text_up{
+      color:#fff !important ;
+      font-size:15px !important;
+    }
+    
+    #bg_right_text_down{
+      background-color: #00ffff; 
+      font-size:15px !important;
+    }
+
+    .logo_mobile{
+      display:block;
+    }
+
+    .colorlib-nav-toggle{
+      background-color: #fff !important;
+    }
     
   }
