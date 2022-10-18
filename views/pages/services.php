@@ -1,13 +1,15 @@
 <?php include('../templates/header.php'); ?>
 <div id="colorlib-main"
-	style="width: 100% !important; background-image: url('../../assets/img/page/about.png') ; background-repeat:no-repeat; background-size: cover; ">
+	style="width: 100% !important; background-image: url('../../assets/img/page/about.PNG') ; background-repeat:no-repeat; background-size: cover; ">
 
 	<div class="colorlib-contact">
 		<div class="colorlib-narrow-content">
 			<div class="row">
 				<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 					<span class="heading-meta">
-						<img src="../../assets/img/icons/logo-clickmobile.png" width="200px" alt="">
+						<a href="https://clickmobile.id/">
+							<img src="../../assets/img/icons/logo-clickmobile-aharoni.png" width="200px" alt="">
+						</a>
 					</span>
 					<h2 class="colorlib-heading" style="color:#fff ; font-weight:bold; text-align:right;">Our services
 					</h2>
@@ -46,7 +48,7 @@
 			<div class="row ">
 				<div class="col-md-6" style="padding:20px;">
 					<h2 class="text-right">
-						<a href="#" class="label label-default label-lg text-white"
+						<a href="https://ad.clickmobile.id/" class="label label-default label-lg text-white"
 							style="background-color: #ff9100; color:#fff;">Launch Campaign</a>
 					</h2>
 					<div class="text-right">
@@ -60,7 +62,7 @@
 				</div>
 				<div class="col-md-6" style="padding:20px;">
 					<h2 class="text-left">
-						<a href="#" class="label label-success label-lg"
+						<a href="https://ad.clickmobile.id/" class="label label-success label-lg"
 							>Monetize Traffic
 </a>
 					</h2>

@@ -2,7 +2,7 @@
 $directoryURI = $_SERVER['REQUEST_URI'];
 $path = parse_url($directoryURI, PHP_URL_PATH);
 $components = explode('/', $path);
-$first_part = $components[1];
+$first_part = $components[4];
 
 ?>
 
@@ -10,7 +10,7 @@ $first_part = $components[1];
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<h1 id="colorlib-logo">
-                <a href="index.html">
+                <a href="https://clickmobile.id/">
                     <img src="../../assets/img/icons/logo-clickmobile.png" class="img-responsive" alt="">
                 </a>
             </h1>
